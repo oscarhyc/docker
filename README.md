@@ -1,2 +1,2 @@
 "# docker" 
-git clone https://github.com/thomasyosh/ITP4606project.git
+git clone https://github.com/oscarhyc/docker.git
